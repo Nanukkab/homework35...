@@ -1,0 +1,119 @@
+* {
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    background-color: #F0F2F5;
+}
+
+.image{
+    float: right;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.flex{
+    display: flex;
+}
+.logo{
+    margin-left: 50px;
+    margin-top: 50px;
+    
+}
+
+.logo1{
+    margin-left: 20px;
+    margin-top: 50px;
+}
+
+.logo2{
+    margin-left: 450px;
+    margin-top: 50px;
+}
+
+.box{
+    width: 400px;
+    height: 557px;
+    margin-top: 80px;
+    margin-left: 250px;
+    border: none;
+}
+
+.google{
+    width: 120px;
+    height: 40px;
+    background-color: white;
+    border: 1px solid #20DC49;
+    border-radius: 5px;
+    margin-left: 50px;
+    display: flex;
+}
+
+.facebook{
+    width: 120px;
+    height: 40px;
+    background-color: white;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    margin-left: 50px;
+    display: flex;
+}
+
+.input{
+    margin-top: 70px;
+}
+.email{
+    width: 396px;
+    height: 70px;
+    border-radius: 10px;
+    background-color: white;
+    border: 1px solid lightgray;
+    margin-top: -40px;
+}
+.password{
+    width: 396px;
+    height: 70px;
+    border-radius: 10px;
+    background-color: white;
+    border: 1px solid lightgray;
+    margin-top: 20px;
+}
+.login{
+    width: 396px;
+    height: 55px;
+    border-radius: 10px;
+    background-color: white;
+    border: 1px solid #5A5A5A;
+    margin-top: 17px;
+    color: #5A5A5A;
+}
+.box2{
+    width: 495px;
+    height: 270px;
+    background-color:#FFF2F2;
+    border-radius: 10px;
+    border: none;
+    margin-left: 970px;
+    margin-top: -100px;
+    position: absolute;
+}
+
+.button2{
+    width: 220px;
+    height: 45px;
+    background-color:#20DC49;
+    border-radius: 10px;
+    border: none;
+    margin-left: 40px;
+    margin-top: 50px;
+}
+.circle{
+    width: 15px;
+    height: 15px;
+    border-radius: 50px;
+    background-color: white;
+    margin-top: -21px;
+    margin-left: 3px;
+    position: absolute;
+}
